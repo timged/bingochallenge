@@ -3,11 +3,13 @@ Bingo Challenge
 -----------------------------
 
 GitHub: https://github.com/timged/bingochallenge
+
 Demo: https://64b53bc899a8311e1b074958--ubiquitous-mandazi-340e7b.netlify.app/
 
 To build the application:
 
 npm install
+
 npm run build
 
 Note: CORS errors are likely if you don't run the application from a webserver. 
